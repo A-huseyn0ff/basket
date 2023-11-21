@@ -1,0 +1,18 @@
+.container .card{
+   text-align: center;
+ height: 400px;
+ width: 400px;
+ border: 1px solid;
+ border-radius: 10px;
+ padding:20px ;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+.container .card img{
+    width: 200px;
+    height: 200px;
+}
